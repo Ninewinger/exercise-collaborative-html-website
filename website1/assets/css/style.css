@@ -6,7 +6,8 @@ body{
     background-image: url(../img/bg.jpg);
     background-color: #cccccc;
     background-size: cover;
-    height: 800px;
+    height: 500px;
     width: 100%;
-    display: flex;
+    background-position: center bottom;
 }
+
